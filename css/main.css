@@ -1,27 +1,24 @@
 body {
   width: 1024px;
-  font: 16px Verdana, sans-serif;
+  font: 16px Verdana, sans-serif; color: #666; 
   line-height: 200%;
-  color: #666;
+ 
 }
 
-
 h1 {
-  font-size: 48px;
+  font: 15px;
   padding: 25px;
-  margin-bottom: 5px;
+  margin:  5px;
 }
 
 h2 {
-  font-size: 24px;
+  font: 24px; color:#f07c17;
   letter-spacing: 0.1em;
-  color: #f07c17;
-  margin-top: 0px;
-  margin-bottom: 30px;
+  margin-bottom: 31px;  
 }
 
 .boxed {
-  margin-top: 30px;
-  padding: 30px;
+  margin: 0px;
+  padding: 20px;
   border: 0px solid #666;
 }
